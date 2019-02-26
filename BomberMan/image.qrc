@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>../../../../素材/timg (3).jpg</file>
+        <file>../素材/上走.gif</file>
+        <file>../素材/死亡.gif</file>
+        <file>../素材/下走.gif</file>
+        <file>../素材/右走.gif</file>
+        <file>../素材/左走.gif</file>
+        <file>../素材/第一关怪物（右）.png</file>
+        <file>../素材/第一关怪物（左）.png</file>
+    </qresource>
+</RCC>

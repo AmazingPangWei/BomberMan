@@ -1,4 +1,4 @@
-###简单介绍
+### 简单介绍
 
 通过QT设计的一款仿FC端的炸弹人游戏。在17年秋季学期作为Windows应用开发大作业上交，经过无数次测试，个人认为已经没有什么BUG了。
 
@@ -8,3 +8,10 @@
 
 ### 游戏截图
 
+**游戏开始界面**
+
+![开始界面](https://github.com/AmazingPangWei/BomberMan/blob/master/resource/img1.png)
+
+**游戏界面**
+
+![游戏界面](https://github.com/AmazingPangWei/BomberMan/blob/master/resource/img2.png)

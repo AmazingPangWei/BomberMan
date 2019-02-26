@@ -40,4 +40,4 @@
 
 **碰到怪物、被自己的炸弹炸到、200s之后，游戏结束**
 
-![游戏结束](![炸弹放置](https://github.com/AmazingPangWei/BomberMan/blob/master/resource/img10.png))
+![游戏结束](https://github.com/AmazingPangWei/BomberMan/blob/master/resource/img10.png)
